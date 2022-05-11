@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habir55
 - 👀 I’m interested in Data Science, especially with Python
-- 🌱 I’m currently learning Python and Stata
+- 🌱 I’m currently learning Python and Deep Learning 
 - 📫 How to reach me 
 
 <!---
